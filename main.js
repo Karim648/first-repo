@@ -1,2 +1,2 @@
 const num = 50;
-const greet = "Hello, World!";
+const greet = "Hello!";
